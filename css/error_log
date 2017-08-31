@@ -1,0 +1,26 @@
+[04-Feb-2017 12:05:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:05:36 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:05:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:05:48 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:10:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:10:17 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:10:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:10:30 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:17:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:17:47 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:18:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:18:10 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:21:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:21:34 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:24:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:24:57 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:25:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:25:06 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:25:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:25:34 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:25:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:25:49 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:29:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:29:31 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
+[04-Feb-2017 12:29:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rflplasinf/public_html/index.php:85) in /home/rflplasinf/public_html/index.php on line 108
+[04-Feb-2017 12:29:39 America/Chicago] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/rflplasinf/public_html/index.php on line 117
